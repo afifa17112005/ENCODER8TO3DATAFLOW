@@ -53,7 +53,8 @@ module Encoder8to3(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7); input d0,d1,d2,d3,d4,d5,d6
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2024-04-02 144836](https://github.com/afifa17112005/ENCODER8TO3DATAFLOW/assets/147080931/a846de9e-cc8b-42b2-89f5-52ce22aabb00)
 
-**RESULTS**
+**RESULTS**:
+
 implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
 
